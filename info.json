@@ -1,0 +1,65 @@
+{
+  "question": [
+    "1). A group pandas is know as : ",
+    "2). What is know as Food of God's in Ancient India?",
+    "3). Prunes are a dried version of which fruit?",
+    "4). What is  the most hatted colour in the world?",
+    "5). Who was the first Indian to receive an Oscar?",
+    "6). What is the slogan of sports brand Nike?",
+    "7). Who is the saddest cat  in the World ?",
+    "8). Which Australian bird's song is described as laughing?"
+  ],
+  "answer": [
+    2,
+    3,
+    4,
+    3,
+    2,
+    2,
+    3,
+    1
+  ],
+  "options": [
+
+    [ " A cupboard of pandas",
+      " Embarrassment",
+      " Slow things",
+      " Wiggle"
+    ],
+    [ "Milk",
+      "Ghee",
+      "Yoghurt",
+      " Bread"
+    ],
+    ["Pear",
+      "Peach",
+      "Grape",
+      "Plum"
+    ],
+    ["Burnt orange",
+      "Carmine Pink",
+      "Pantone",
+      "Turtle Blue"
+    ],
+    ["Satyajit Ray",
+      "Bhanu Athaiya",
+      "Kailash Satyarthi",
+      "Fali Bilimoria"
+    ],
+    ["Because You're Worth It",
+      "Just do it",
+      "We are forever faster",
+      "Innovate to Elevate"
+    ],
+     ["BenBen",
+      "Fu bao",
+      "LuLu",
+      "Lana"
+    ],
+    ["Kookaburra",
+      "Whooper swan",
+      "White stork",
+      "Mallard"
+    ]
+  ]
+}
